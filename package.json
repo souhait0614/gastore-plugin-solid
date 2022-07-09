@@ -1,7 +1,7 @@
 {
   "name": "gastore-plugin-solid",
   "author": "souhait",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "Integration plugin for gastore and SolidJS signal",
   "repository": {
