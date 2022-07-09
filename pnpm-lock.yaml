@@ -1,23 +1,23 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@types/node': ^18.0.0
-  '@typescript-eslint/eslint-plugin': ^5.29.0
-  '@typescript-eslint/parser': ^5.29.0
-  eslint: ^8.18.0
+  '@types/node': ^18.0.3
+  '@typescript-eslint/eslint-plugin': ^5.30.5
+  '@typescript-eslint/parser': ^5.30.5
+  eslint: ^8.19.0
   eslint-config-google: ^0.14.0
   eslint-plugin-import: ^2.26.0
   eslint-plugin-unused-imports: ^2.0.0
-  gastore: ^0.2.1
+  gastore: ^0.2.3
   prettier: ^2.7.1
   solid-js: ^1.4.7
-  typescript: ^4.5.4
-  vite: ^2.9.9
-  vite-plugin-dts: ^1.2.0
+  typescript: ^4.7.4
+  vite: ^2.9.14
+  vite-plugin-dts: ^1.2.1
   vitest: ^0.16.0
 
 dependencies:
-  gastore: 0.2.1
+  gastore: 0.2.3
   solid-js: 1.4.7
 
 devDependencies:
@@ -1156,8 +1156,8 @@ packages:
     resolution: {integrity: sha512-xckBUXyTIqT97tq2x2AMb+g163b5JFysYk0x4qxNFwbfQkmNZoiRHb6sPzI9/QV33WeuvVYBUIiD4NzNIyqaRQ==}
     dev: true
 
-  /gastore/0.2.1:
-    resolution: {integrity: sha512-fmDX3nevqYHuRBgS4FN75dT52H0TPuVPBZ7CiPHZXUGn2wB4iE4UBl9Avi9wc4+9XuEth+N1RzcxKU4cx9Ri6w==}
+  /gastore/0.2.3:
+    resolution: {integrity: sha512-yDarutVjhWb6ys+oYE49L0NxJTUPMwaNCGXoNI/eXn6PR1zl/ATcZm9FSHobEyf7c/Tn2dUlQsneLJs3NpRrew==}
     engines: {node: '>=18.4.0'}
     dev: false
 
