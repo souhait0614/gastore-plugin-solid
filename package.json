@@ -3,7 +3,7 @@
   "author": "souhait",
   "version": "0.1.0",
   "license": "MIT",
-  "description": "Integration plugin for gastore and SolidJS signal",
+  "description": "Integration plugin for Gastore and SolidJS Signal",
   "repository": {
     "type": "git",
     "url": "https://github.com/souhait0614/gastore-plugin-solid"
