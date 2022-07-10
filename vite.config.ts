@@ -9,7 +9,7 @@ export default defineConfig({
     target: "esnext",
     lib: {
       entry: path.resolve(__dirname, "src/index.ts"),
-      name: "GastorePluginSolid",
+      name: "Gastore plugin Solid",
       fileName: "gastore-plugin-solid",
     },
   },

@@ -1,4 +1,4 @@
-# gastore-plugin-solid
+# Gastore plugin Solid
 
 [Gastore](https://www.npmjs.com/package/gastore) と [SolidJS](https://www.npmjs.com/package/solid-js) Signal の統合プラグイン
 
